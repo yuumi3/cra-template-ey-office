@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-ey-office",
+  "version": "1.0.0",
+  "description": "A simple TypeScript template for Create React App.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuumi3/cra-template-ey-office.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "author": "Yuumi Yoshida",
+  "license": "MIT",
+  "engines": {
+    "node": ">=11.0"
+  },
+  "bugs": {
+    "url": "https://github.com/yuumi3/cra-template-ey-office/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "homepage": "https://github.com/yuumi3/cra-template-ey-office#readme"
+}
