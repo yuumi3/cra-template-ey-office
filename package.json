@@ -13,7 +13,7 @@
     "template",
     "typescript"
   ],
-  "author": "Yuumi Yoshida",
+  "author": "Yuumi Yoshida <yy@ey-office.com>",
   "license": "MIT",
   "engines": {
     "node": ">=11.0"
