@@ -1,4 +1,4 @@
-# cra-template-typescript
+# cra-template-ey-office
 
 This is a simple TypeScript template for [Create React App](https://github.com/facebook/create-react-app).
 
