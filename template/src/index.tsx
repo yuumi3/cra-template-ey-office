@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-const App = () => {
+const App: React.FC = () => {
   return <h1>Hello Word!</h1>
 }
 
